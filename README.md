@@ -1,6 +1,5 @@
 # vite-essence
-Messing about Vite and Devcontainers
-
+Messing about with Vite and Devcontainers. FAFO 101.
 
 ## Getting Started
 
